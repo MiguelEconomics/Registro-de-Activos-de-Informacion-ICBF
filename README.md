@@ -24,5 +24,7 @@ En este repositorio, encontrará la siguiente estructura de carpetas:
 Agradecemos cualquier contribución que desee hacer a este proyecto. Si encuentra algún problema con los datos, el código o las conclusiones presentadas, por favor, 
 abra un issue en este repositorio para que podamos abordarlo.
 
-![Logo ICBF](https://github.com/MiguelEconomics/Registro-de-Activos-de-Informacion-ICBF/blob/main/Logos/icbf-logo.png?raw=true)
+<p align="center">
+  <img src="https://github.com/MiguelEconomics/Registro-de-Activos-de-Informacion-ICBF/blob/main/Logos/icbf-logo.png?raw=true" alt="Logo ICBF" width="200" height="200">
+</p>
 
